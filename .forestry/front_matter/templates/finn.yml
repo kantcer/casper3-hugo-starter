@@ -1,4 +1,9 @@
 ---
 label: Finn
 hide_body: false
-fields: []
+fields:
+- name: hj
+  type: text
+  config:
+    required: false
+  label: Hj
